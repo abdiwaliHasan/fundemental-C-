@@ -1,0 +1,86 @@
+Main Points of introduction c++
+________________________________
+>>Application of c++
+.high-perefomance Applicatons
+.video games
+.device drivers
+.web browser
+.servers
+.operating system
+>>c++ is one of the fastest and most efficient languages.
+--there are two thing you need to learn.
+1=C++ language meaning the syntax or grammer of this language.
+2=Standard library Or STL which collection pre written c++ code.
+that provides functionality that is required by many applications.
+
+EXAMPLES 
+.data structures list ,map
+.Algorithms searching ,sorting
+>> To create c++ programs , we use an Integrated Development Enviroment Or IDE.
+
+-------the basics
+we will learn this
+1.variables and constants
+2.naming conventions
+3.mathematical expressions
+4.writing to and reading from the console
+5.working with the standard library
+6.comments
+
+
+>double is using decimal point or floating number
+
+(>>) this operator called Stream insertion operator
+> when you want a new  line you will use (<< std::endl;).
+> when you want to run something you use (std::cout <<).
+>(cout) means character out and can use like print.
+>(cin) means to read data.
+  the operation (<< insertion) to write data to a stream.
+  the operation (>> extraction) to read data from a stream.
+Common manipulators:
+setW
+fixed
+setprecision:waxay qabata pointga tirada ku so baxde ayey mar walpa go amine
+boolalpha 
+left:wax walpo gadasheeda lagu qoro waxy ka so muqanayn dhinaca left
+right:by defult
+
+--boolean are true or false
+--characters are always represent a numbers
+--markii la rbo in laba magac lagu soo aqriyo ayado la isticmalyao space waxa looyaqana functionkaas getline kaso qeexo STD.
+--Arry elements can be using Accsesing index
+------ decision making
+.comprasion operators
+.logical  opreator
+.if statement
+.swicht statement
+.conditional operator
+
+---comparison operator 
+.>
+.==
+.!=
+---logical operator
+.AND(&&)
+.OR(||)
+.NOT(!a)
+
+--switch block often has two or more case label.
+--switch statement are not as flexiable.
+
+--markii lajooogo c++ waxa jira Afar loobs
+.while loop
+.for loop
+.range based for loop
+.do-while loop
+
+
+
+
+
+
+
+
+
+
+

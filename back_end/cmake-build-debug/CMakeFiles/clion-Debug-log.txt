@@ -1,0 +1,13 @@
+"C:\Users\HP EliteBook\100DaysOfFilanTechCode\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/HP EliteBook/100DaysOfFilanTechCode/CLion 2022.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\100DaysOfFilanTechCode\back_end -B D:\100DaysOfFilanTechCode\back_end\cmake-build-debug
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    Examole1.cpp
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: back_end
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
